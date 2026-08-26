@@ -8,7 +8,7 @@ This project was completed as part of an **Introduction to Data Engineering serv
 
 The project was primarily completed by a **two-person student team**, with each student contributing approximately **50 hours of service-learning work**. We worked with a contact at Lee Health throughout the project to better understand their data needs, review our progress, receive feedback, and ultimately deliver our completed analysis and Power BI reporting.
 
-Lee Health was also in the process of expanding its use of **Microsoft services and Power BI reporting**, moving away from more manual, paper-based and Excel-heavy reporting processes. Because of this, Power BI became an important part of our final deliverable.
+Lee Health was also in the process of expanding its use of **Microsoft services and Power BI reporting**, moving away from more manual, paper-based and Excel-heavy reporting processes. Because of this, Power BI became an important part of our final deliverable. The final deliverable was Lee-Heath-CMS-Data-Analysis.pbix which is the final report we shipped.
 
 The project gave us the opportunity to apply data engineering concepts to a real organization's needs rather than working only with a predefined classroom dataset.
 
