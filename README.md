@@ -4,7 +4,7 @@ A healthcare data engineering and analytics service-learning project developed i
 
 ## Overview
 
-This project was completed as part of an **Introduction to Data Engineering service-learning course at Florida Gulf Coast University (FGCU)** in partnership with **Lee Health's Strategy & Innovation Division**.
+This project was completed as part of an **Introduction to Data Engineering service-learning course at Florida Gulf Coast University (FGCU)** in partnership with **Lee Health's Strategy & Innovation Division**. Completed in May of 2026.
 
 The project was primarily completed by a **two-person student team**, with each student contributing approximately **50 hours of service-learning work**. We worked with a contact at Lee Health throughout the project to better understand their data needs, review our progress, receive feedback, and ultimately deliver our completed analysis and Power BI reporting.
 
